@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  background: url('https://github.com/bellamoss77/poems-accordion-laureate-2024/blob/main/public/laureateFeather_reduced_opacity.png?raw=true');
+  background-size: 100% 100%;
+  background-blend-mode: soft-light;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    margin: auto;
+}
+
+.poem-container {
+  margin: auto;
+  align-self: center;
+}
