@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/laureate-luminary-2024/static/css/main.62f1eae6.css",
+    "main.css": "/laureate-luminary-2024/static/css/main.b2d4c4c3.css",
     "main.js": "/laureate-luminary-2024/static/js/main.b3d987b2.js",
     "static/js/453.3fe9c65b.chunk.js": "/laureate-luminary-2024/static/js/453.3fe9c65b.chunk.js",
     "index.html": "/laureate-luminary-2024/index.html",
-    "main.62f1eae6.css.map": "/laureate-luminary-2024/static/css/main.62f1eae6.css.map",
+    "main.b2d4c4c3.css.map": "/laureate-luminary-2024/static/css/main.b2d4c4c3.css.map",
     "main.b3d987b2.js.map": "/laureate-luminary-2024/static/js/main.b3d987b2.js.map",
     "453.3fe9c65b.chunk.js.map": "/laureate-luminary-2024/static/js/453.3fe9c65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62f1eae6.css",
+    "static/css/main.b2d4c4c3.css",
     "static/js/main.b3d987b2.js"
   ]
 }
